@@ -1,1 +1,1 @@
-Memory Game Clone
+Memory Game
